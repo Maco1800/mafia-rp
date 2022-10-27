@@ -1,0 +1,13 @@
+<settings>
+    <hostname>MGCRP ROLEPLAY | V 0.1</hostname>
+    <port>27015</port>
+    <maxplayers>32</maxplayers>
+    <weburl />
+    <password />
+    <modules />
+    <resources>
+        <resource>mafia-rp</resource>
+    </resources>
+    <serverip />
+    <serverkey />
+</settings>

@@ -1,0 +1,12 @@
+<meta>
+	<!-- Load serverside scripts -->
+	<script type="server">mgcrp.nut</script>
+
+	<!-- Load clientside scripts -->
+	<script type="client">scoreboard.nut</script>
+	<script type="client">main.nut</script>
+	<script type="client">map.nut</script>
+	
+	<!-- Load other stuff -->
+	<file>logo.png</file>
+</meta>

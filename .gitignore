@@ -1,0 +1,8 @@
+
+*.exe
+bans.xml
+*.log
+webserver/logo.png
+webserver/map.nut
+webserver/main.nut
+webserver/scoreboard.nut
